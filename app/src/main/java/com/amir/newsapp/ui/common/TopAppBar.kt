@@ -9,6 +9,7 @@ import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Menu
 import androidx.compose.runtime.*
 import androidx.compose.ui.res.stringResource
+import com.amir.newsapp.R
 
 @Composable
 fun TopAppBar(

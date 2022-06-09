@@ -9,6 +9,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavController
 import com.amir.newsapp.ui.common.WebView
 import com.amir.newsapp.util.navUnMaskUrl
+import com.amir.newsapp.R
 
 @Composable
 fun NewDetailScreen(
